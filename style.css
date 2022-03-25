@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 130px;
+    margin-top: 20px;
+    float: right;
+     
+}
+li{
+    display: inline;
+    padding-left: 15px;
+    
+    
+}
+h1{
+    font-size:45px;
+}
+#name-color{
+    color: tomato;
+}
+
+.anchor-deco{
+    text-decoration: none;
+    font-size:17px;
+    color: black;
+    font-weight: 800;
+}
+.section-2{
+    
+    height: 500px;
+}
+
+.section-2 img{
+    width: 80%;
+}
+.second-section-div-1{
+    width: 40%;
+     margin-left: 5%; 
+     padding-left: 2%;
+     float: left;
+      
+}
+.button-one{
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+#working-projects-id{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: black;
+}
+.three-iamge-sec{
+    background-color:whitesmoke;
+    height: 700px;
+     
+}
+#latest-word{
+    color: tomato;
+}
+ .three-iamge-sec img{
+     width: 100%;
+     margin-right: 2px;
+     margin-top: 9px;
+      
+ }
+
+ .three-iamge-div{
+     width: 27%;
+     float: left;
+     margin-left: 4%;
+      
+     padding-left: 1%;
+     border-radius: 10px;
+     box-shadow: 10px 10px 30px;
+     background-color: white;
+     
+     
+ }
+
+ .shape-background{
+    margin-top: 30px;
+    background-image: url(shapes/Group_33094_1.png);
+    height: 200px;
+     width: 730px;
+    background-repeat: no-repeat;
+    background-size:  contain;
+    background-position: center;
+     
+    float: center;
+    margin-left: auto;
+  margin-right: auto;
+    float: center;
+     
+ } 
+
+ .shape-background img{
+      width:100% ;
+      
+ }
+ .flot-div-chat1{
+    float: left;
+    color: white;
+    margin-top: 60px;
+    margin-left:20px ;
+ }
+  
+ .flot-div-chat2{
+     float: right;
+     margin-top: 80px;
+     margin-right: 20px;
+      
+ }
+ .section-last-two{
+     margin-bottom: 60px;
+ }
+ .last-div{
+     text-align: center;
+ }
+ .last-div h3 {
+     color:rgb(151, 150, 147);
+ }
+ .last-div img{
+     width:34px;
+     padding: 7px;
+ }
